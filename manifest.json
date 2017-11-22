@@ -1,0 +1,43 @@
+{
+    "workshop": {
+        "title": "Cloud Accelerate: APIPCS / ICS Integration Workshop",
+        "description": "A hands-on event to explore Oracle’s API Platform and Integration Cloud Services.",
+        "labs": [{
+                "number": "1",
+                "filename": "Home.md",
+                "title": "Home",
+                "description": "Welcome to the APIPCS and ICS workshop"
+            },{
+                "number": "10",
+                "filename": "StudentGuide.md",
+                "title": "Prerequisites",
+                "description": "Workshop guidance and prerequisites"
+            },
+            {
+                "number": "100",
+                "filename": "ics100.md",
+                "title": "Lab 100: Exploring ICS",
+                "description": "This lab will expose you to the functionality in ICS."
+            },
+            {
+                "number": "200",
+                "filename": "ics200.md",
+                "title": "Lab 200: Basic ICS Development",
+                "description": "In this Lab we are going to build a 'hello world' echo service."
+            },
+            {
+                "number": "300",
+                "filename": "ics300.md",
+                "title": "Lab 300: Exploring API Platform Cloud Service",
+                "description": "This lab will expose you to the functionality in APIPCS."
+            },
+                        {
+                "number": "400",
+                "filename": "ics400.md",
+                "title": "Lab 400: Configuring APIPCS",
+                "description": "In this lab, we will use APIPCS in front of APIs previously created in ICS."
+            }
+
+        ]
+    }
+}
